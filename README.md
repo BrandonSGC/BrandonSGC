@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub profile 👋 
 
-<!--
-**BrandonSGC/BrandonSGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Brandon Gomez Carvajal and I am a web developer. I love working on web projects and creating amazing experiences for users.
 
-Here are some ideas to get you started:
+## Here are some of the technologies I work with at the moment:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python
+- MySQL
+- Git
+- GitHub
+
+# I'm going to study:
+- React
+- Django
