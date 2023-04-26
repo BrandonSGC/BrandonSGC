@@ -4,7 +4,10 @@ My name is Brandon Gomez Carvajal and I am a web developer. I love working on we
 
 ## Here are some of the technologies I work with at the moment:
 
-- HTML              - MySQL
-- CSS               - Git
-- JavaScript        - GitHub
+- HTML
+- CSS
+- JavaScript
 - Python
+- MySQL
+- Git
+- GitHub
