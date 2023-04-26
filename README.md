@@ -12,6 +12,6 @@ My name is Brandon Gomez Carvajal and I am a web developer. I love working on we
 - Git
 - GitHub
 
-## I'm going to study:
+## Currently studying:
 - React
 - Django
