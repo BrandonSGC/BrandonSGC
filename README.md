@@ -1,4 +1,4 @@
-### Hi there, welcome to my GitHub profile 👋 
+# Hi there, welcome to my GitHub profile 👋 
 
 My name is Brandon Gomez Carvajal and I am a web developer. I love working on web projects and creating amazing experiences for users.
 
@@ -12,6 +12,6 @@ My name is Brandon Gomez Carvajal and I am a web developer. I love working on we
 - Git
 - GitHub
 
-# I'm going to study:
+## I'm going to study:
 - React
 - Django
