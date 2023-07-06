@@ -9,5 +9,8 @@ My name is Brandon Gomez Carvajal and I am a web developer. I love working on we
 - JavaScript
 - Python
 - MySQL
+- SQL Server
 - Git
 - GitHub
+- NodeJS
+- Express
