@@ -7,10 +7,12 @@ My name is Brandon Gomez Carvajal and I am a web developer. I love working on we
 - HTML
 - CSS
 - JavaScript
-- MySQL
-- SQL Server
+- ReactJS
 - NodeJS
 - Express
+- Sequelize
 - Python
+- MySQL
+- SQL Server
 - Git
 - GitHub
