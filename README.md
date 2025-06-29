@@ -36,14 +36,3 @@ I work daily with scalable, cloud-based systems, gaining hands-on experience tha
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/brandon-g%C3%B3mez-064904239/)
-- [Portfolio Website](https://jolly-coast-0dc9f790f.2.azurestaticapps.net/)
-
----
-
-Thanks for stopping by! Feel free to explore my repositories and follow along as I continue learning and building in the world of development and DevOps 🌐⚙️🚀
